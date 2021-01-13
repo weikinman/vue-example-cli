@@ -1,0 +1,21 @@
+{
+    "name": "javascript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "babel-polyfill": "^6.26.0",
+        "boardware-vue-framework": "git+http://gitlab.boardware.com/scott/boardware-vue-framework.git",
+        "element-ui": "^2.13.1",
+        "html2canvas": "^1.0.0-rc.7",
+        "jquery": "^3.5.1",
+        "jsencrypt": "^3.0.0-rc.1"
+    }
+}
